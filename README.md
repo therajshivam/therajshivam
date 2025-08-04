@@ -25,13 +25,6 @@ Self-taught Software Engineer | Full-stack Web Apps
 
 ---
 
-## 📈 GitHub Stats & Activity
-
-![Shivam’s GitHub stats](https://github-readme-stats.vercel.app/api?username=therajshivam&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=therajshivam&layout=compact) 
-
----
-
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/therajshivam/)  
