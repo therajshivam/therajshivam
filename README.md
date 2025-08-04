@@ -1,11 +1,6 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/therajshivam/therajshivam/main/assets/banner.svg" alt="Shivam Banner" />
-</p>
-
 # Hi, I’m **Shivam Raj** 👋
 
-Self-taught Software Engineer | Full-stack Web Apps | Open-Source Enthusiast
+Self-taught Software Engineer | Full-stack Web Apps 
 
 ---
 
@@ -33,14 +28,7 @@ Self-taught Software Engineer | Full-stack Web Apps | Open-Source Enthusiast
 ## 📈 GitHub Stats & Activity
 
 ![Shivam’s GitHub stats](https://github-readme-stats.vercel.app/api?username=therajshivam&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=therajshivam&layout=compact)
-
----
-
-## 🤝 Open to Collaborate
-
-- Contributions welcome! See [CONTRIBUTING.md](https://github.com/therajshivam/monster-binge/blob/main/CONTRIBUTING.md)  
-- Building or helping on projects related to web-dev, mobile, AI/ML.  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=therajshivam&layout=compact) 
 
 ---
 
@@ -51,5 +39,3 @@ Self-taught Software Engineer | Full-stack Web Apps | Open-Source Enthusiast
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:rajshivam2386@gmail.com)  
 
 ---
-
-> **Fun fact:** I once automated my entire README to update itself daily—because meta is fun!  
